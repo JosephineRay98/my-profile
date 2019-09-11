@@ -1,0 +1,35 @@
+body {
+	background-image: url(images/photo_1.jpg);
+	font-family: 'Merriweather', serif;
+}
+h1{color:#042A2B;
+		font-size: 1000%;
+		font-family: 'Roboto Slab', serif;
+	}
+
+h2{font-size: 800%;
+		color: black
+		font-family: 'Roboto Slab', serif;
+	}
+
+p{font-size: 500%;
+color:#7D1538;
+}
+i{color: black;
+}
+
+
+
+.toto {
+	    background: beige;
+    padding: 200px;
+    margin: 90px;
+    border-radius: 10px;
+}
+.jojo {    
+	font-size: 100px;
+}
+
+#photo { border-radius: 1000px;
+ }
+
